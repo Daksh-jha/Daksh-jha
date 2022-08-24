@@ -5,8 +5,9 @@
 
 
 
-- 🔭 I’m currently working under GS'SOC as open source contributor.
-- 🌱 I’m currently learning Web Development.
+- 🔭 Open Source Contributor.
+- Member at GDSC-ITM
+- 🌱 I’m currently into Web Development, UI/UX, C++.
 
 
 
